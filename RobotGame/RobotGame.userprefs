@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Drone.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CameraFollow.cs" Line="49" Column="4" />
+      <File FileName="Assets\Scripts\CharacterMovement.cs" Line="6" Column="2" />
+      <File FileName="Assets\Scripts\CharacterController.cs" Line="62" Column="6" />
+      <File FileName="Assets\Scripts\Drone.cs" Line="80" Column="30" />
+      <File FileName="Assets\Scripts\ComponentBase.cs" Line="11" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
