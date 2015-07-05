@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: f31fda34185447042b9143c18be2d1b0
+timeCreated: 1436116941
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: StartingArea_Door1_BottomPart_Plane.000_CuttableDoorPart2
+    100004: StartingArea_Door1_TopPart_Plane.003_CuttableDoorPart1
+    100006: StartingArea_Door2_BottomPart_Plane.009_CuttableDoorPart2
+    100008: StartingArea_Door2_TopPart_Plane.007_CuttableDoorPart1
+    100010: StartingArea_Door3_Plane.008_StorageBayFloors
+    100012: StartingArea_Door5_BottomPart_Plane.011_CuttableDoorPart2
+    100014: StartingArea_Door5_TopPart_Plane.010_CuttableDoorPart1
+    100016: StartingArea_Door6_Plane.006_StorageBayFloors
+    100018: StartingArea_Plane.001_StorageBay1Walls
+    100020: StartingArea_Plane.001_StorageBay2_6Walls
+    100022: StartingArea_Plane.001_StorageBayCeilingPart1
+    100024: StartingArea_Plane.001_StorageBayDoor1Edges
+    100026: StartingArea_Plane.001_StorageBayDoor2Edges
+    100028: StartingArea_Plane.001_StorageBayDoor3Edges
+    100030: StartingArea_Plane.001_StorageBayDoor4Edges
+    100032: StartingArea_Plane.001_StorageBayDoor5Edges
+    100034: StartingArea_Plane.001_StorageBayDoor6Edges
+    100036: StartingArea_Plane.001_StorageBayFloors
+    100038: StartingArea_Plane.001_StorageBayShelf
+    100040: StartingArea_Plane.001_StorageHallwayCeiling
+    100042: StartingArea_Plane.001_StorageHallwayCeilingSides
+    100044: StartingArea_Plane.001_StorageHallwayFloors
+    100046: StartingArea_Plane.001_StorageHallwayWalls
+    400000: //RootNode
+    400002: StartingArea_Door1_BottomPart_Plane.000_CuttableDoorPart2
+    400004: StartingArea_Door1_TopPart_Plane.003_CuttableDoorPart1
+    400006: StartingArea_Door2_BottomPart_Plane.009_CuttableDoorPart2
+    400008: StartingArea_Door2_TopPart_Plane.007_CuttableDoorPart1
+    400010: StartingArea_Door3_Plane.008_StorageBayFloors
+    400012: StartingArea_Door5_BottomPart_Plane.011_CuttableDoorPart2
+    400014: StartingArea_Door5_TopPart_Plane.010_CuttableDoorPart1
+    400016: StartingArea_Door6_Plane.006_StorageBayFloors
+    400018: StartingArea_Plane.001_StorageBay1Walls
+    400020: StartingArea_Plane.001_StorageBay2_6Walls
+    400022: StartingArea_Plane.001_StorageBayCeilingPart1
+    400024: StartingArea_Plane.001_StorageBayDoor1Edges
+    400026: StartingArea_Plane.001_StorageBayDoor2Edges
+    400028: StartingArea_Plane.001_StorageBayDoor3Edges
+    400030: StartingArea_Plane.001_StorageBayDoor4Edges
+    400032: StartingArea_Plane.001_StorageBayDoor5Edges
+    400034: StartingArea_Plane.001_StorageBayDoor6Edges
+    400036: StartingArea_Plane.001_StorageBayFloors
+    400038: StartingArea_Plane.001_StorageBayShelf
+    400040: StartingArea_Plane.001_StorageHallwayCeiling
+    400042: StartingArea_Plane.001_StorageHallwayCeilingSides
+    400044: StartingArea_Plane.001_StorageHallwayFloors
+    400046: StartingArea_Plane.001_StorageHallwayWalls
+    2300000: StartingArea_Door1_BottomPart_Plane.000_CuttableDoorPart2
+    2300002: StartingArea_Door1_TopPart_Plane.003_CuttableDoorPart1
+    2300004: StartingArea_Door2_BottomPart_Plane.009_CuttableDoorPart2
+    2300006: StartingArea_Door2_TopPart_Plane.007_CuttableDoorPart1
+    2300008: StartingArea_Door3_Plane.008_StorageBayFloors
+    2300010: StartingArea_Door5_BottomPart_Plane.011_CuttableDoorPart2
+    2300012: StartingArea_Door5_TopPart_Plane.010_CuttableDoorPart1
+    2300014: StartingArea_Door6_Plane.006_StorageBayFloors
+    2300016: StartingArea_Plane.001_StorageBay1Walls
+    2300018: StartingArea_Plane.001_StorageBay2_6Walls
+    2300020: StartingArea_Plane.001_StorageBayCeilingPart1
+    2300022: StartingArea_Plane.001_StorageBayDoor1Edges
+    2300024: StartingArea_Plane.001_StorageBayDoor2Edges
+    2300026: StartingArea_Plane.001_StorageBayDoor3Edges
+    2300028: StartingArea_Plane.001_StorageBayDoor4Edges
+    2300030: StartingArea_Plane.001_StorageBayDoor5Edges
+    2300032: StartingArea_Plane.001_StorageBayDoor6Edges
+    2300034: StartingArea_Plane.001_StorageBayFloors
+    2300036: StartingArea_Plane.001_StorageBayShelf
+    2300038: StartingArea_Plane.001_StorageHallwayCeiling
+    2300040: StartingArea_Plane.001_StorageHallwayCeilingSides
+    2300042: StartingArea_Plane.001_StorageHallwayFloors
+    2300044: StartingArea_Plane.001_StorageHallwayWalls
+    3300000: StartingArea_Door1_BottomPart_Plane.000_CuttableDoorPart2
+    3300002: StartingArea_Door1_TopPart_Plane.003_CuttableDoorPart1
+    3300004: StartingArea_Door2_BottomPart_Plane.009_CuttableDoorPart2
+    3300006: StartingArea_Door2_TopPart_Plane.007_CuttableDoorPart1
+    3300008: StartingArea_Door3_Plane.008_StorageBayFloors
+    3300010: StartingArea_Door5_BottomPart_Plane.011_CuttableDoorPart2
+    3300012: StartingArea_Door5_TopPart_Plane.010_CuttableDoorPart1
+    3300014: StartingArea_Door6_Plane.006_StorageBayFloors
+    3300016: StartingArea_Plane.001_StorageBay1Walls
+    3300018: StartingArea_Plane.001_StorageBay2_6Walls
+    3300020: StartingArea_Plane.001_StorageBayCeilingPart1
+    3300022: StartingArea_Plane.001_StorageBayDoor1Edges
+    3300024: StartingArea_Plane.001_StorageBayDoor2Edges
+    3300026: StartingArea_Plane.001_StorageBayDoor3Edges
+    3300028: StartingArea_Plane.001_StorageBayDoor4Edges
+    3300030: StartingArea_Plane.001_StorageBayDoor5Edges
+    3300032: StartingArea_Plane.001_StorageBayDoor6Edges
+    3300034: StartingArea_Plane.001_StorageBayFloors
+    3300036: StartingArea_Plane.001_StorageBayShelf
+    3300038: StartingArea_Plane.001_StorageHallwayCeiling
+    3300040: StartingArea_Plane.001_StorageHallwayCeilingSides
+    3300042: StartingArea_Plane.001_StorageHallwayFloors
+    3300044: StartingArea_Plane.001_StorageHallwayWalls
+    4300000: StartingArea_Door1_BottomPart_Plane.000_CuttableDoorPart2
+    4300002: StartingArea_Door1_TopPart_Plane.003_CuttableDoorPart1
+    4300004: StartingArea_Door2_BottomPart_Plane.009_CuttableDoorPart2
+    4300006: StartingArea_Door2_TopPart_Plane.007_CuttableDoorPart1
+    4300008: StartingArea_Door3_Plane.008_StorageBayFloors
+    4300010: StartingArea_Door5_BottomPart_Plane.011_CuttableDoorPart2
+    4300012: StartingArea_Door5_TopPart_Plane.010_CuttableDoorPart1
+    4300014: StartingArea_Door6_Plane.006_StorageBayFloors
+    4300016: StartingArea_Plane.001_StorageBay1Walls
+    4300018: StartingArea_Plane.001_StorageBay2_6Walls
+    4300020: StartingArea_Plane.001_StorageBayCeilingPart1
+    4300022: StartingArea_Plane.001_StorageBayDoor1Edges
+    4300024: StartingArea_Plane.001_StorageBayDoor2Edges
+    4300026: StartingArea_Plane.001_StorageBayDoor3Edges
+    4300028: StartingArea_Plane.001_StorageBayDoor4Edges
+    4300030: StartingArea_Plane.001_StorageBayDoor5Edges
+    4300032: StartingArea_Plane.001_StorageBayDoor6Edges
+    4300034: StartingArea_Plane.001_StorageBayFloors
+    4300036: StartingArea_Plane.001_StorageBayShelf
+    4300038: StartingArea_Plane.001_StorageHallwayCeiling
+    4300040: StartingArea_Plane.001_StorageHallwayCeilingSides
+    4300042: StartingArea_Plane.001_StorageHallwayFloors
+    4300044: StartingArea_Plane.001_StorageHallwayWalls
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
